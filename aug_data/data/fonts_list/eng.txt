@@ -1,0 +1,10 @@
+./data/fonts/eng/bahnschrift.ttf
+./data/fonts/eng/CHILLER.TTF
+./data/fonts/eng/GOTHIC.TTF
+./data/fonts/eng/GOTHICB.TTF
+./data/fonts/eng/KleeOne-SemiBold.ttf
+./data/fonts/eng/PAPYRUS.TTF
+./data/fonts/eng/segoeui.ttf
+./data/fonts/eng/tahomabd.ttf
+./data/fonts/eng/TCCM____.TTF
+./data/fonts/eng/trebucbd.ttf
